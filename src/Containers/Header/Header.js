@@ -13,9 +13,6 @@ import {
   faBars,
   faHome,
   faImages,
-  faNewspaper,
-  faTasks,
-  faUsers,
   faVideo,
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
